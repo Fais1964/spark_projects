@@ -20,3 +20,5 @@ This project uses PySpark and Matplotlib to perform the following analyses:
 
 The project requires PySpark and Matplotlib to be installed. To install them, run the following commands:
 
+pip install pyspark
+pip install matplotlib
